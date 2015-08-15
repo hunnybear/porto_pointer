@@ -1,0 +1,8 @@
+lib_*
+*.d
+*.o
+*.hex
+*.eep
+last_build.txt
+core_arduino
+core.a
